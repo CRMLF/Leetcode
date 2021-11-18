@@ -9,7 +9,7 @@ import java.util.Arrays;
  */
 public class Array0034 {
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(new Solution().searchRange(new int[]{1}, 1)));
+        System.out.println(Arrays.toString(new Solution().searchRange(new int[]{5, 7, 7, 8, 8, 10}, 7)));
     }
 }
 
@@ -17,20 +17,23 @@ class Solution {
     public int[] searchRange(int[] nums, int target) {
         int start = -1;
         int over = -1;
-
-        for (int i = 0; i < nums.length; i++) {
+        int i = 0;
+        for (; i < nums.length; i++) {
             if (nums[i] == target) {
                 start = i;
-                while (++i < nums.length && nums[i] == target) {
-                    over = i;
+                over = i;
+                for (int j = i; j < nums.length; j++) {
+                    if (nums[j] == target) {
+                        over = j;
+                    }
                 }
-                over -= 1;
                 break;
             }
         }
-        if (over < start) {
-            over = start;
+        if (i > nums.length) {
+            return new int[]{-1, -1};
         }
+
         return new int[]{start, over};
     }
 }
