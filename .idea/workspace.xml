@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7da2e013-a1c9-4263-a1e0-502f7afec781" name="Default Changelist" comment="日常提交">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetCode/com/zl/array/array0001/Array0001.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetCode/com/zl/array/array0001/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetCode/com/zl/array/array0004/Array0004.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetCode/com/zl/array/array0004/Solution$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetCode/com/zl/array/array0004/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetCode/com/zl/array/array0011/Array0011.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetCode/com/zl/array/array0011/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetCode/com/zl/array/array0015/Array0015.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetCode/com/zl/array/array0015/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetCode/com/zl/array/array0026/Array0026.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetCode/com/zl/array/array0026/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetCode/com/zl/array/array0027/Array0027.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetCode/com/zl/array/array0027/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/array/array0003/Array0003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/array/array0034/Array0034.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/everyday/e210411.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/linkedList/linkedList0002/LinkedList0002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/linkedList/linkedList0002/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zl/array/array0001/Array0001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zl/array/array0001/Array0001.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\leetCode\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lBJNRmmm9s8QP2D1N2v3tNGN9L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\leetCode\src\com\zl" />
+      <recent name="D:\leetCode\src\com\zl\array" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\leetCode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Array0003">
+    <configuration name="Aaary0104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zl.array.leetBook.array0104.Aaary0104" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zl.array.leetBook.array0104.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array0003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zl.array.array0003.Array0003" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zl.array.array0003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array0031" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zl.array.array0031.Array0031" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zl.array.array0031.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array0034" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zl.array.array0034.Array0034" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zl.array.array0034.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Work" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zl.Work" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Array0003" />
+        <item itemvalue="Application.Aaary0104" />
+        <item itemvalue="Application.Array0031" />
+        <item itemvalue="Application.Array0034" />
+        <item itemvalue="Application.Work" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7da2e013-a1c9-4263-a1e0-502f7afec781" name="Default Changelist" comment="" />
+      <created>1607064510930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607064510930</updated>
+      <workItem from="1607064515613" duration="5722000" />
+      <workItem from="1607084378513" duration="4065000" />
+      <workItem from="1607142548858" duration="2459000" />
+      <workItem from="1607147694471" duration="3926000" />
+      <workItem from="1607151828858" duration="155000" />
+      <workItem from="1607152022048" duration="27000" />
+      <workItem from="1607152070060" duration="710000" />
+      <workItem from="1607318392814" duration="3413000" />
+      <workItem from="1607323357103" duration="35000" />
+      <workItem from="1607323423884" duration="4439000" />
+      <workItem from="1607348205984" duration="5298000" />
+      <workItem from="1607584305333" duration="3397000" />
+      <workItem from="1607608435751" duration="22000" />
+      <workItem from="1607679668154" duration="765000" />
+      <workItem from="1607750634987" duration="149000" />
+      <workItem from="1607755442664" duration="1087000" />
+      <workItem from="1607756559116" duration="83000" />
+      <workItem from="1607842543424" duration="6966000" />
+      <workItem from="1607910775912" duration="513000" />
+      <workItem from="1607923352153" duration="664000" />
+      <workItem from="1607997768024" duration="725000" />
+      <workItem from="1608359854104" duration="1964000" />
+      <workItem from="1608375685886" duration="18000" />
+      <workItem from="1608622664039" duration="2635000" />
+      <workItem from="1608814000180" duration="128000" />
+      <workItem from="1608854876808" duration="158000" />
+      <workItem from="1611890604927" duration="55000" />
+      <workItem from="1613976865075" duration="329000" />
+      <workItem from="1616396472185" duration="364000" />
+      <workItem from="1618316853651" duration="1986000" />
+      <workItem from="1618818576314" duration="20000" />
+      <workItem from="1624414962527" duration="2184000" />
+      <workItem from="1637229875441" duration="2462000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1607152279467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607152279467</updated>
+    </task>
+    <task id="LOCAL-00002" summary="日常提交">
+      <created>1607318530716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607318530716</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改array0015">
+      <created>1607319346832</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607319346832</updated>
+    </task>
+    <task id="LOCAL-00004" summary="日常提交">
+      <created>1607411184872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607411184872</updated>
+    </task>
+    <task id="LOCAL-00005" summary="日常提交">
+      <created>1607584643277</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607584643277</updated>
+    </task>
+    <task id="LOCAL-00006" summary="日常提交">
+      <created>1607997861557</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607997861557</updated>
+    </task>
+    <task id="LOCAL-00007" summary="日常提交">
+      <created>1608624690994</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608624690994</updated>
+    </task>
+    <task id="LOCAL-00008" summary="日常提交">
+      <created>1608814064559</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608814064560</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="修改array0015" />
+    <MESSAGE value="日常提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="日常提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="116" key="GridCell.Tab.0.bottom" timestamp="1637231525614">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="116" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1637231525614" />
+    <state width="1493" height="116" key="GridCell.Tab.0.center" timestamp="1637231525613">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="116" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1637231525613" />
+    <state width="1493" height="116" key="GridCell.Tab.0.left" timestamp="1637231525613">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="116" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1637231525613" />
+    <state width="1493" height="116" key="GridCell.Tab.0.right" timestamp="1637231525614">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="116" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1637231525614" />
+    <state x="270" y="59" key="SettingsEditor" timestamp="1637232334193">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1637232334193" />
+  </component>
+</project>
