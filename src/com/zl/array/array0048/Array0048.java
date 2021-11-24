@@ -1,7 +1,5 @@
 package com.zl.array.array0048;
 
-import sun.nio.cs.ext.MacArabic;
-
 import java.util.Arrays;
 
 /**
@@ -13,8 +11,8 @@ public class Array0048 {
     public static void main(String[] args) {
         int[][] matrix = new int[][]{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
         new Solution().rotate2(matrix);
-        for (int i = 0; i < matrix.length; i++) {
-            System.out.println(Arrays.toString(matrix[i]));
+        for (int[] ints : matrix) {
+            System.out.println(Arrays.toString(ints));
         }
     }
 }
@@ -30,9 +28,7 @@ class Solution {
             }
         }
         for (int i = 0; i < matrix.length; i++) {
-            for (int j = 0; j < matrix.length; j++) {
-                matrix[i][j] = matrixCopy[i][j];
-            }
+            System.arraycopy(matrixCopy[i], 0, matrix[i], 0, matrix.length);
         }
     }
 
