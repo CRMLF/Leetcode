@@ -30,7 +30,6 @@ class Solution {
         int j = 0;
         for (int k = 0; k < all; k++) {
             num = matrix[i][j];
-            System.out.println(num);
             used[i][j] = true;
             res.add(num);
             //右
@@ -59,8 +58,7 @@ class Solution {
                     dir = (dir + 1) % 4;
                     i -= 1;
                 }
-            }else 
-
+            }else
             //上
             if (3 == dir) {
                 if (i > 0 && !used[i - 1][j]) {
