@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7da2e013-a1c9-4263-a1e0-502f7afec781" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/zl/array/array0057/Array0057.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/array/array0059/Array0059.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/array/array0063/Array0063.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zl/array/array0057/Array0057.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zl/array/array0057/Array0057.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +54,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -200,7 +203,9 @@
       <workItem from="1637229875441" duration="10692000" />
       <workItem from="1637244865089" duration="7547000" />
       <workItem from="1637307654843" duration="14176000" />
-      <workItem from="1637558058409" duration="50242000" />
+      <workItem from="1637558058409" duration="51883000" />
+      <workItem from="1638112554642" duration="1476000" />
+      <workItem from="1638344776906" duration="1352000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1607152279467</created>
@@ -349,7 +354,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638083250834</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="日常提交">
+      <created>1638084395557</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1638084395557</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,10 +374,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="日常提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="9" key="CommitChangelistDialog2" timestamp="1638083249808">
+    <state x="372" y="9" key="CommitChangelistDialog2" timestamp="1638084394532">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="9" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1638083249808" />
+    <state x="372" y="9" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1638084394532" />
     <state x="147" y="71" key="DiffContextDialog" timestamp="1638025855809">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -406,14 +418,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1637233403831" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1638025894633">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1638112564596">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1638025894633" />
-    <state x="499" y="182" key="extract.method.dialog" timestamp="1638084122389">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1638112564596" />
+    <state x="499" y="182" key="extract.method.dialog" timestamp="1638090420679">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="499" y="182" key="extract.method.dialog/0.0.1536.834@0.0.1536.834" timestamp="1638084122389" />
+    <state x="499" y="182" key="extract.method.dialog/0.0.1536.834@0.0.1536.834" timestamp="1638090420679" />
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1637759078730">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
