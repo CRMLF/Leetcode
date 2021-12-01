@@ -30,9 +30,7 @@ class Solution {
         if (1 == intervals.length) {
             return intervals;
         }
-
         Arrays.sort(intervals, Comparator.comparingInt(o -> o[0]));
-
         List<int[]> merged = new ArrayList<>();
         for (int[] interval : intervals) {
             int l = interval[0], r = interval[1];
@@ -43,7 +41,5 @@ class Solution {
             }
         }
         return merged.toArray(new int[merged.size()][]);
-
-
     }
 }
