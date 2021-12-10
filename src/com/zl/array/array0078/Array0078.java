@@ -1,9 +1,6 @@
 package com.zl.array.array0078;
 
-import java.util.ArrayDeque;
-import java.util.ArrayList;
-import java.util.Deque;
-import java.util.List;
+import java.util.*;
 
 /**
  * @Description
@@ -12,11 +9,26 @@ import java.util.List;
  */
 public class Array0078 {
     public static void main(String[] args) {
-        System.out.println(new Solution().subsets(new int[]{1, 2, 3}));
+        System.out.println(new Solution().subsets2(new int[]{1, 2, 3}));
     }
 }
 
 class Solution {
+    public List<List<Integer>> subsets2(int[] nums) {
+        List<List<Integer>> res = new ArrayList<>();
+        res.add(new ArrayList<>());
+        for (int num : nums) {
+            List<List<Integer>> temps = new ArrayList<>();
+            for (List<Integer> re : res){
+                List<Integer> temp = new ArrayList<>(re);
+                temp.add(num);
+                temps.add(temp);
+            }
+            res.addAll(temps);
+        }
+        return res;
+    }
+    
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
         for (int i = 0; i <= nums.length; i++) {
