@@ -24,7 +24,6 @@ class Solution {
                 max = Math.max(max, (j - i + 1) * min[1]);
             }
         }
-
         return max;
     }
 
@@ -36,7 +35,6 @@ class Solution {
                 min[1] = heights[i];
             }
         }
-
         return min;
     }
 
@@ -61,7 +59,6 @@ class Solution {
                 }
             }
             max = Math.max(max, (right - left + 1) * heights[i]);
-            System.out.println(left + " " + right + " " + heights[i]);
         }
         return max;
     }
@@ -73,7 +70,6 @@ class Solution {
         for (int i = 0; i < len; i++) {
             while (!stack.isEmpty() && heights[i] < heights[stack.peekLast()]) {
                 int height = heights[stack.removeLast()];
-
                 while (!stack.isEmpty() && heights[stack.peekLast()] == height) {
                     stack.removeLast();
                 }
@@ -89,7 +85,6 @@ class Solution {
         }
         while (!stack.isEmpty()) {
             int height = heights[stack.removeLast()];
-
             while (!stack.isEmpty() && heights[stack.peekLast()] == height) {
                 stack.removeLast();
             }
