@@ -4,10 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7da2e013-a1c9-4263-a1e0-502f7afec781" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/zl/array/array0090/Array0090.java" afterDir="false" />
+    <list default="true" id="7da2e013-a1c9-4263-a1e0-502f7afec781" name="Default Changelist" comment="日常提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zl/array/array0078/Array0078.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zl/array/array0078/Array0078.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zl/array/array0090/Array0090.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zl/array/array0090/Array0090.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <recent name="D:\leetCode\src\com\zl\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Array0078">
+  <component name="RunManager" selected="Application.Array0090">
     <configuration name="Array0078" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zl.array.array0078.Array0078" />
       <module name="leetCode" />
@@ -140,8 +139,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Array0078" />
         <item itemvalue="Application.Array0090" />
+        <item itemvalue="Application.Array0078" />
         <item itemvalue="Application.Array0088" />
         <item itemvalue="Application.Array0085" />
         <item itemvalue="Application.Array0084" />
@@ -213,6 +212,8 @@
       <workItem from="1638713104492" duration="894000" />
       <workItem from="1638958191931" duration="11814000" />
       <workItem from="1639097717654" duration="7299000" />
+      <workItem from="1639122965116" duration="1580000" />
+      <workItem from="1639183475344" duration="1142000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1607152279467</created>
@@ -493,30 +494,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="日常提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="9" key="CommitChangelistDialog2" timestamp="1639100738439">
+    <state x="372" y="9" key="CommitChangelistDialog2" timestamp="1639126081104">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="9" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1639100738439" />
+    <state x="372" y="9" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1639126081104" />
     <state x="147" y="71" key="DiffContextDialog" timestamp="1638347796646">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="147" y="71" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1638347796646" />
-    <state width="1493" height="139" key="GridCell.Tab.0.bottom" timestamp="1639104460658">
+    <state width="1493" height="139" key="GridCell.Tab.0.bottom" timestamp="1639184068727">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1639104460658" />
-    <state width="1493" height="139" key="GridCell.Tab.0.center" timestamp="1639104460657">
+    <state width="1493" height="139" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1639184068727" />
+    <state width="1493" height="139" key="GridCell.Tab.0.center" timestamp="1639184068726">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1639104460657" />
-    <state width="1493" height="139" key="GridCell.Tab.0.left" timestamp="1639104460656">
+    <state width="1493" height="139" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1639184068726" />
+    <state width="1493" height="139" key="GridCell.Tab.0.left" timestamp="1639184068725">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1639104460656" />
-    <state width="1493" height="139" key="GridCell.Tab.0.right" timestamp="1639104460658">
+    <state width="1493" height="139" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1639184068725" />
+    <state width="1493" height="139" key="GridCell.Tab.0.right" timestamp="1639184068727">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1639104460658" />
+    <state width="1493" height="139" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1639184068727" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1638681942542">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -537,10 +538,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1637233403831" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1639054215652">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1639126091721">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1639054215652" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1639126091721" />
     <state x="499" y="182" key="extract.method.dialog" timestamp="1639055274566">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

@@ -9,7 +9,7 @@ import java.util.*;
  */
 public class Array0090 {
     public static void main(String[] args) {
-        System.out.println(new Solution().subsetsWithDup(new int[]{1, 2, 2}));
+        System.out.println(new Solution().subsetsWithDup2(new int[]{1, 2, 2}));
     }
 }
 
@@ -21,10 +21,10 @@ class Solution {
         for (int i = 0; i <= len; i++) {
             dfs(nums, i, 0, path, res);
         }
-        HashMap<List<Integer>,List<Integer>> map = new HashMap<>();
-        for (List<Integer> re:res){
+        HashMap<List<Integer>, List<Integer>> map = new HashMap<>();
+        for (List<Integer> re : res) {
             Collections.sort(re);
-            map.put(re,re);
+            map.put(re, re);
         }
         res.clear();
         res.addAll(map.values());
@@ -42,5 +42,27 @@ class Solution {
             dfs(nums, len, i + 1, path, res);
             path.removeLast();
         }
+    }
+
+    public List<List<Integer>> subsetsWithDup2(int[] nums) {
+        Arrays.sort(nums);
+        List<List<Integer>> res = new ArrayList<>();
+        res.add(new ArrayList<>());
+        for (int num : nums) {
+            List<List<Integer>> temps = new ArrayList<>();
+            for (List<Integer> re:res){
+                List<Integer> temp = new ArrayList<>(re);
+                temp.add(num);
+                temps.add(temp);
+            }
+            res.addAll(temps);
+        }
+        HashMap<List<Integer>,List<Integer>> map = new HashMap<>();
+        for (List<Integer> re:res){
+            map.put(re,re);
+        }
+        res.clear();
+        res.addAll(map.values());
+        return res;
     }
 }
