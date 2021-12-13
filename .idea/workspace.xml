@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7da2e013-a1c9-4263-a1e0-502f7afec781" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/zl/array/array0119/Array0119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/array/array0120/Array0120.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +71,7 @@
       <recent name="D:\leetCode\src\com\zl\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Array0119">
+  <component name="RunManager" selected="Application.Array0120">
     <configuration name="Array0105" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zl.array.array0105.Array0105" />
       <module name="leetCode" />
@@ -124,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E0709" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zl.everyday.e0709.E0709" />
+    <configuration name="Array0120" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zl.array.array0120.Array0120" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zl.everyday.e0709.*" />
+          <option name="PATTERN" value="com.zl.array.array0120.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array0120" />
         <item itemvalue="Application.Array0119" />
         <item itemvalue="Application.Array0118" />
         <item itemvalue="Application.Array0106" />
         <item itemvalue="Application.Array0105" />
-        <item itemvalue="Application.E0709" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +216,7 @@
       <workItem from="1639183475344" duration="2456000" />
       <workItem from="1639273820052" duration="3078000" />
       <workItem from="1639360573520" duration="3177000" />
-      <workItem from="1639373136455" duration="3956000" />
+      <workItem from="1639373136455" duration="7499000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1607152279467</created>
@@ -526,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639377150112</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="日常提交">
+      <created>1639377381560</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1639377381560</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,30 +546,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="日常提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="9" key="CommitChangelistDialog2" timestamp="1639377148564">
+    <state x="372" y="9" key="CommitChangelistDialog2" timestamp="1639377380437">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="9" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1639377148564" />
+    <state x="372" y="9" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1639377380437" />
     <state x="147" y="71" key="DiffContextDialog" timestamp="1639361595911">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="147" y="71" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1639361595911" />
-    <state width="1493" height="139" key="GridCell.Tab.0.bottom" timestamp="1639377308867">
+    <state width="1493" height="139" key="GridCell.Tab.0.bottom" timestamp="1639381218864">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1639377308867" />
-    <state width="1493" height="139" key="GridCell.Tab.0.center" timestamp="1639377308866">
+    <state width="1493" height="139" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1639381218864" />
+    <state width="1493" height="139" key="GridCell.Tab.0.center" timestamp="1639381218864">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1639377308866" />
-    <state width="1493" height="139" key="GridCell.Tab.0.left" timestamp="1639377308866">
+    <state width="1493" height="139" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1639381218864" />
+    <state width="1493" height="139" key="GridCell.Tab.0.left" timestamp="1639381218864">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1639377308866" />
-    <state width="1493" height="139" key="GridCell.Tab.0.right" timestamp="1639377308867">
+    <state width="1493" height="139" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1639381218864" />
+    <state width="1493" height="139" key="GridCell.Tab.0.right" timestamp="1639381218864">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1639377308867" />
+    <state width="1493" height="139" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1639381218864" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1639376887734">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -583,10 +590,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1637233403831" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1639363727808">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1639377387511">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1639363727808" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1639377387511" />
     <state x="499" y="182" key="extract.method.dialog" timestamp="1639377259776">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -599,9 +606,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1638430659219" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1637759078730">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1639380003081">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1637759078730" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1639380003081" />
   </component>
 </project>
