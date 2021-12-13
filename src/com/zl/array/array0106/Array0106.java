@@ -14,46 +14,25 @@ public class Array0106 {
 }
 
 class Solution {
-    int postIdx;
-    int[] postOrder;
-    int[] inorder;
-    HashMap<Integer, Integer> idxMap = new HashMap<Integer, Integer>();
+    public TreeNode buildTree(int[] inorder, int[] postorder) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for (int i = 0; i < inorder.length; i++) {
+            map.put(inorder[i], i);
+        }
+        return myBuildTree(map, 0, inorder.length - 1, postorder, 0, postorder.length - 1);
+    }
 
-    public TreeNode helper(int inLeft, int inRight) {
-        // 如果这里没有节点构造二叉树了，就结束
-        if (inLeft > inRight) {
+    private TreeNode myBuildTree(HashMap<Integer, Integer> map, int inLeft, int inRight, int[] postOrder, int postLeft, int postRight) {
+        if (inLeft > inRight || postLeft > postRight) {
             return null;
         }
 
-        // 选择 post_idx 位置的元素作为当前子树根节点
-        int rootVal = postOrder[postIdx];
+        int rootVal = postOrder[postRight];
+        int iIndex = map.get(rootVal);
         TreeNode root = new TreeNode(rootVal);
-
-        // 根据 root 所在位置分成左右两棵子树
-        int index = idxMap.get(rootVal);
-
-        // 下标减一
-        postIdx--;
-        // 构造右子树
-        root.right = helper(index + 1, inRight);
-        // 构造左子树
-        root.left = helper(inLeft, index - 1);
+        root.left = myBuildTree(map, inLeft, iIndex - 1, postOrder, postLeft, iIndex - inLeft + postLeft - 1);
+        root.right = myBuildTree(map, iIndex + 1, inRight, postOrder, iIndex - inLeft + postLeft, postRight - 1);
         return root;
-    }
-
-    public TreeNode buildTree(int[] inOrder, int[] postOrder) {
-        this.postOrder = postOrder;
-        this.inorder = inOrder;
-        // 从后序遍历的最后一个元素开始
-        postIdx = postOrder.length - 1;
-
-        // 建立（元素，下标）键值对的哈希表
-        int idx = 0;
-        for (Integer val : inOrder) {
-            idxMap.put(val, idx++);
-        }
-
-        return helper(0, inOrder.length - 1);
     }
 }
 
