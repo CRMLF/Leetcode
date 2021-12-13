@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7da2e013-a1c9-4263-a1e0-502f7afec781" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/zl/array/array0108/Array0108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zl/array/array0118/Array0118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/array/array0119/Array0119.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zl/array/array0106/Array0106.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zl/array/array0106/Array0106.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,20 +71,7 @@
       <recent name="D:\leetCode\src\com\zl\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Array0118">
-    <configuration name="Array0090" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zl.array.array0090.Array0090" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zl.array.array0090.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Array0119">
     <configuration name="Array0105" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zl.array.array0105.Array0105" />
       <module name="leetCode" />
@@ -126,6 +111,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Array0119" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zl.array.array0119.Array0119" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zl.array.array0119.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="E0709" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zl.everyday.e0709.E0709" />
       <module name="leetCode" />
@@ -141,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array0119" />
         <item itemvalue="Application.Array0118" />
         <item itemvalue="Application.Array0106" />
         <item itemvalue="Application.Array0105" />
         <item itemvalue="Application.E0709" />
-        <item itemvalue="Application.Array0090" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +216,7 @@
       <workItem from="1639183475344" duration="2456000" />
       <workItem from="1639273820052" duration="3078000" />
       <workItem from="1639360573520" duration="3177000" />
-      <workItem from="1639373136455" duration="3711000" />
+      <workItem from="1639373136455" duration="3956000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1607152279467</created>
@@ -514,7 +512,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639363452627</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="日常提交">
+      <created>1639377142214</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1639377142214</updated>
+    </task>
+    <task id="LOCAL-00044" summary="日常提交">
+      <created>1639377150112</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1639377150112</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,30 +539,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="日常提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="9" key="CommitChangelistDialog2" timestamp="1639377140779">
+    <state x="372" y="9" key="CommitChangelistDialog2" timestamp="1639377148564">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="9" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1639377140779" />
+    <state x="372" y="9" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1639377148564" />
     <state x="147" y="71" key="DiffContextDialog" timestamp="1639361595911">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="147" y="71" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1639361595911" />
-    <state width="1493" height="139" key="GridCell.Tab.0.bottom" timestamp="1639377033742">
+    <state width="1493" height="139" key="GridCell.Tab.0.bottom" timestamp="1639377308867">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1639377033742" />
-    <state width="1493" height="139" key="GridCell.Tab.0.center" timestamp="1639377033742">
+    <state width="1493" height="139" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1639377308867" />
+    <state width="1493" height="139" key="GridCell.Tab.0.center" timestamp="1639377308866">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1639377033742" />
-    <state width="1493" height="139" key="GridCell.Tab.0.left" timestamp="1639377033742">
+    <state width="1493" height="139" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1639377308866" />
+    <state width="1493" height="139" key="GridCell.Tab.0.left" timestamp="1639377308866">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1639377033742" />
-    <state width="1493" height="139" key="GridCell.Tab.0.right" timestamp="1639377033742">
+    <state width="1493" height="139" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1639377308866" />
+    <state width="1493" height="139" key="GridCell.Tab.0.right" timestamp="1639377308867">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1639377033742" />
+    <state width="1493" height="139" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1639377308867" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1639376887734">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -575,10 +587,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1639363727808" />
-    <state x="499" y="182" key="extract.method.dialog" timestamp="1639055274566">
+    <state x="499" y="182" key="extract.method.dialog" timestamp="1639377259776">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="499" y="182" key="extract.method.dialog/0.0.1536.834@0.0.1536.834" timestamp="1639055274566" />
+    <state x="499" y="182" key="extract.method.dialog/0.0.1536.834@0.0.1536.834" timestamp="1639377259776" />
     <state x="447" y="150" width="642" height="534" key="find.popup" timestamp="1638348398641">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
