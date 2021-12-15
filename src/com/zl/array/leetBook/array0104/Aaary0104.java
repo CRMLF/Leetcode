@@ -9,7 +9,7 @@ import java.util.Arrays;
  */
 public class Aaary0104 {
     public static void main(String[] args) {
-        int[] arr = new int[]{1,1,1,2,2,3};
+        int[] arr = new int[]{1, 1, 1, 2, 2, 3};
         System.out.println(new Solution().removeDuplicates(arr));
         System.out.println(Arrays.toString(arr));
     }
