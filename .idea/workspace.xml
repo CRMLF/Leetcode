@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7da2e013-a1c9-4263-a1e0-502f7afec781" name="Default Changelist" comment="日常提交">
       <change afterPath="$PROJECT_DIR$/src/com/zl/array/array0130/Array0130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/array/array0134/Array0134.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/zl/everyday/e0419/E0419.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zl/everyday/e0997/E0997.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,39 +73,39 @@
       <recent name="D:\leetCode\src\com\zl\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E0997">
-    <configuration name="Array0122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zl.array.array0122.Array0122" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zl.array.array0122.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array0123" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zl.array.array0123.Array0123" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zl.array.array0123.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Array0134">
     <configuration name="Array0128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zl.array.array0128.Array0128" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zl.array.array0128.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array0130" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zl.array.array0130.Array0130" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zl.array.array0130.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array0134" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zl.array.array0134.Array0134" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zl.array.array0134.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array0134" />
+        <item itemvalue="Application.Array0130" />
         <item itemvalue="Application.E0997" />
         <item itemvalue="Application.Array0128" />
         <item itemvalue="Application.E0419" />
-        <item itemvalue="Application.Array0123" />
-        <item itemvalue="Application.Array0122" />
       </list>
     </recent_temporary>
   </component>
@@ -224,14 +224,7 @@
       <workItem from="1639484307751" duration="53000" />
       <workItem from="1639583401173" duration="52000" />
       <workItem from="1639788895063" duration="4258000" />
-      <workItem from="1639876428560" duration="614000" />
-    </task>
-    <task id="LOCAL-00004" summary="日常提交">
-      <created>1607411184872</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1607411184872</updated>
+      <workItem from="1639876428560" duration="4694000" />
     </task>
     <task id="LOCAL-00005" summary="日常提交">
       <created>1607584643277</created>
@@ -569,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639795044905</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="日常提交">
+      <created>1639877291944</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1639877291946</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -586,30 +586,30 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1639791341979" />
-    <state x="372" y="9" key="CommitChangelistDialog2" timestamp="1639877261976">
+    <state x="372" y="9" key="CommitChangelistDialog2" timestamp="1639877289464">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="9" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1639877261976" />
+    <state x="372" y="9" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1639877289464" />
     <state x="147" y="71" key="DiffContextDialog" timestamp="1639877248671">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="147" y="71" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1639877248671" />
-    <state width="1493" height="139" key="GridCell.Tab.0.bottom" timestamp="1639877262028">
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom" timestamp="1639880889905">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1639877262027" />
-    <state width="1493" height="139" key="GridCell.Tab.0.center" timestamp="1639877262026">
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1639880889905" />
+    <state width="1493" height="191" key="GridCell.Tab.0.center" timestamp="1639880889904">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1639877262026" />
-    <state width="1493" height="139" key="GridCell.Tab.0.left" timestamp="1639877262026">
+    <state width="1493" height="191" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1639880889904" />
+    <state width="1493" height="191" key="GridCell.Tab.0.left" timestamp="1639880889904">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1639877262026" />
-    <state width="1493" height="139" key="GridCell.Tab.0.right" timestamp="1639877262027">
+    <state width="1493" height="191" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1639880889904" />
+    <state width="1493" height="191" key="GridCell.Tab.0.right" timestamp="1639880889904">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="139" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1639877262027" />
+    <state width="1493" height="191" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1639880889904" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1639381529694">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
