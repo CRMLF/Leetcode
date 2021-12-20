@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7da2e013-a1c9-4263-a1e0-502f7afec781" name="Default Changelist" comment="日常提交">
-      <change afterPath="$PROJECT_DIR$/src/com/zl/array/array0130/Array0130.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/zl/array/array0134/Array0134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/array/array0135/Array0135.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/zl/everyday/e0419/E0419.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/everyday/e0475/E0475.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +74,7 @@
       <recent name="D:\leetCode\src\com\zl\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Array0134">
+  <component name="RunManager" selected="Application.E0475">
     <configuration name="Array0128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zl.array.array0128.Array0128" />
       <module name="leetCode" />
@@ -113,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E0419" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zl.everyday.e0419.E0419" />
+    <configuration name="E0475" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zl.everyday.e0475.E0475" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zl.everyday.e0419.*" />
+          <option name="PATTERN" value="com.zl.everyday.e0475.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E0475" />
         <item itemvalue="Application.Array0134" />
         <item itemvalue="Application.Array0130" />
         <item itemvalue="Application.E0997" />
         <item itemvalue="Application.Array0128" />
-        <item itemvalue="Application.E0419" />
       </list>
     </recent_temporary>
   </component>
@@ -224,14 +225,8 @@
       <workItem from="1639484307751" duration="53000" />
       <workItem from="1639583401173" duration="52000" />
       <workItem from="1639788895063" duration="4258000" />
-      <workItem from="1639876428560" duration="4694000" />
-    </task>
-    <task id="LOCAL-00005" summary="日常提交">
-      <created>1607584643277</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1607584643277</updated>
+      <workItem from="1639876428560" duration="5358000" />
+      <workItem from="1639964441743" duration="2849000" />
     </task>
     <task id="LOCAL-00006" summary="日常提交">
       <created>1607997861557</created>
@@ -569,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639877291946</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="日常提交">
+      <created>1639881139545</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1639881139546</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -586,30 +588,30 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1639791341979" />
-    <state x="372" y="9" key="CommitChangelistDialog2" timestamp="1639877289464">
+    <state x="372" y="9" key="CommitChangelistDialog2" timestamp="1639881137640">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="9" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1639877289464" />
+    <state x="372" y="9" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1639881137640" />
     <state x="147" y="71" key="DiffContextDialog" timestamp="1639877248671">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="147" y="71" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1639877248671" />
-    <state width="1493" height="191" key="GridCell.Tab.0.bottom" timestamp="1639880889905">
+    <state width="1493" height="193" key="GridCell.Tab.0.bottom" timestamp="1639965143544">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="191" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1639880889905" />
-    <state width="1493" height="191" key="GridCell.Tab.0.center" timestamp="1639880889904">
+    <state width="1493" height="193" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1639965143544" />
+    <state width="1493" height="193" key="GridCell.Tab.0.center" timestamp="1639965143544">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="191" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1639880889904" />
-    <state width="1493" height="191" key="GridCell.Tab.0.left" timestamp="1639880889904">
+    <state width="1493" height="193" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1639965143544" />
+    <state width="1493" height="193" key="GridCell.Tab.0.left" timestamp="1639965143544">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="191" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1639880889904" />
-    <state width="1493" height="191" key="GridCell.Tab.0.right" timestamp="1639880889904">
+    <state width="1493" height="193" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1639965143544" />
+    <state width="1493" height="193" key="GridCell.Tab.0.right" timestamp="1639965143544">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="191" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1639880889904" />
+    <state width="1493" height="193" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1639965143544" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1639381529694">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
