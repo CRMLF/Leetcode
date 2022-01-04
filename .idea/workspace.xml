@@ -71,7 +71,7 @@
       <recent name="D:\leetCode\src\com\zl\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E1185">
+  <component name="RunManager" selected="Application.E0913">
     <configuration name="Array0137" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zl.array.array0137.Array0137" />
       <module name="leetCode" />
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E0686" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zl.everyday.e0686.E0686" />
+    <configuration name="E0913" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zl.everyday.e0913.E0913" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zl.everyday.e0686.*" />
+          <option name="PATTERN" value="com.zl.everyday.e0913.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E0913" />
         <item itemvalue="Application.E1185" />
         <item itemvalue="Application.E1078" />
         <item itemvalue="Application.Array0167" />
         <item itemvalue="Application.Array0137" />
-        <item itemvalue="Application.E0686" />
       </list>
     </recent_temporary>
   </component>
@@ -230,14 +230,8 @@
       <workItem from="1640447640407" duration="514000" />
       <workItem from="1640478221968" duration="357000" />
       <workItem from="1640479347581" duration="29000" />
-      <workItem from="1641216375137" duration="254000" />
-    </task>
-    <task id="LOCAL-00015" summary="日常提交">
-      <created>1637764050996</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1637764050996</updated>
+      <workItem from="1641216375137" duration="473000" />
+      <workItem from="1641224987794" duration="838000" />
     </task>
     <task id="LOCAL-00016" summary="日常提交">
       <created>1637827964706</created>
@@ -575,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640448142262</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="日常提交">
+      <created>1641216843225</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1641216843226</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -596,34 +597,34 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1640187462589" />
-    <state x="372" y="9" key="CommitChangelistDialog2" timestamp="1640448140920">
+    <state x="372" y="9" key="CommitChangelistDialog2" timestamp="1641216842056">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="372" y="9" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1640448140920" />
+    <state x="372" y="9" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1641216842056" />
     <state x="147" y="71" key="DiffContextDialog" timestamp="1640272680799">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="147" y="71" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1640272680799" />
-    <state width="2005" height="279" key="GridCell.Tab.0.bottom" timestamp="1640478580208">
-      <screen x="0" y="0" width="2048" height="1122" />
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom" timestamp="1641216847970">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="2005" height="279" key="GridCell.Tab.0.bottom/-1920.0.1536.834/0.0.2048.1122@0.0.2048.1122" timestamp="1640478580208" />
-    <state width="1493" height="193" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1640448155765" />
-    <state width="2005" height="279" key="GridCell.Tab.0.center" timestamp="1640478580207">
-      <screen x="0" y="0" width="2048" height="1122" />
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1641216847970" />
+    <state width="1493" height="192" key="GridCell.Tab.0.center" timestamp="1641216847970">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="2005" height="279" key="GridCell.Tab.0.center/-1920.0.1536.834/0.0.2048.1122@0.0.2048.1122" timestamp="1640478580207" />
-    <state width="1493" height="193" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1640448155765" />
-    <state width="2005" height="279" key="GridCell.Tab.0.left" timestamp="1640478580207">
-      <screen x="0" y="0" width="2048" height="1122" />
+    <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1641216847970" />
+    <state width="1493" height="192" key="GridCell.Tab.0.left" timestamp="1641216847970">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="2005" height="279" key="GridCell.Tab.0.left/-1920.0.1536.834/0.0.2048.1122@0.0.2048.1122" timestamp="1640478580207" />
-    <state width="1493" height="193" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1640448155765" />
-    <state width="2005" height="279" key="GridCell.Tab.0.right" timestamp="1640478580207">
-      <screen x="0" y="0" width="2048" height="1122" />
+    <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1641216847970" />
+    <state width="1493" height="192" key="GridCell.Tab.0.right" timestamp="1641216847970">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="2005" height="279" key="GridCell.Tab.0.right/-1920.0.1536.834/0.0.2048.1122@0.0.2048.1122" timestamp="1640478580207" />
-    <state width="1493" height="193" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1640448155765" />
+    <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1641216847970" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1639968462579">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -652,10 +653,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="182" key="extract.method.dialog/0.0.1536.834@0.0.1536.834" timestamp="1639377259776" />
-    <state x="447" y="150" width="642" height="534" key="find.popup" timestamp="1638348398641">
+    <state x="447" y="150" width="782" height="600" key="find.popup" timestamp="1641308878932">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="447" y="150" width="642" height="534" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1638348398641" />
+    <state x="447" y="150" width="782" height="600" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1641308878932" />
     <state x="567" y="282" key="git4idea.rebase.GitRebaseDialog" timestamp="1640187478423">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
