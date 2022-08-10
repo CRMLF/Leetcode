@@ -6,7 +6,47 @@
   <component name="ChangeListManager">
     <list default="true" id="7da2e013-a1c9-4263-a1e0-502f7afec781" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/zl/everyday/e1078/E1078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/interview/Interview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day02/Day02_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day02/Day02_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day02/Day02_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day03/Day03_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day03/Day03_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day04/Day04_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day04/Day04_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day04/Day04_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day05/Day05_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day05/Day05_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day05/Day05_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day06/Day06_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day06/Day06_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day07/Day07_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day07/Day07_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day07/Day07_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day08/Day08_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day08/Day08_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day08/Day08_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day09/Day09_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day09/Day09_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day10/Day10_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day10/Day10_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day11/Day11_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day11/Day11_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day12/Day12_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day12/Day12_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day13/Day13_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day13/Day13_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day13/Day13_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day14/Day14_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day15/Day15_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/string/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/string/string0005/String0005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zl/string/string1/String1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zl/jianzhi/day01_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day01/Day01_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zl/jianzhi/day01_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zl/jianzhi/day01/Day01_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +78,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../jdk1.8.0_201/src.zip!/java/util/concurrent/ExecutorService.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../jdk1.8.0_201/src.zip!/java/util/concurrent/ThreadFactory.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/zl/jianzhi/day15/Day15_1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../jdk1.8.0_201/src.zip!/java/util/concurrent/AbstractExecutorService.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../jdk1.8.0_201/src.zip!/java/util/concurrent/atomic/AtomicInteger.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../jdk1.8.0_201/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../jdk1.8.0_201/src.zip!/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../jdk1.8.0_201/src.zip!/java/lang/Runnable.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../jdk1.8.0_201/src.zip!/java/util/concurrent/Executor.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
         <option value="D:\leetCode\.idea" />
       </set>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1lBJNRmmm9s8QP2D1N2v3tNGN9L" />
   <component name="ProjectViewState">
@@ -56,11 +118,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../文件夹/桌面/httpclient5-5.1.2.jar!/" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.proportion" value="0.15187377" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -71,13 +134,13 @@
       <recent name="D:\leetCode\src\com\zl\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E0913">
-    <configuration name="Array0137" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zl.array.array0137.Array0137" />
+  <component name="RunManager" selected="Application.StringTest">
+    <configuration name="Day13_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zl.jianzhi.day13.Day13_1" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zl.array.array0137.*" />
+          <option name="PATTERN" value="com.zl.jianzhi.day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Array0167" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zl.array.array0167.Array0167" />
+    <configuration name="Day13_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zl.jianzhi.day13.Day13_2" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zl.array.array0167.*" />
+          <option name="PATTERN" value="com.zl.jianzhi.day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E0913" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zl.everyday.e0913.E0913" />
+    <configuration name="Day13_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zl.jianzhi.day13.Day13_3" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zl.everyday.e0913.*" />
+          <option name="PATTERN" value="com.zl.jianzhi.day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E1078" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zl.everyday.e1078.E1078" />
+    <configuration name="Day15_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zl.jianzhi.day15.Day15_1" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zl.everyday.e1078.*" />
+          <option name="PATTERN" value="com.zl.jianzhi.day15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E1185" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zl.everyday.e1185.E1185" />
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zl.string.StringTest" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zl.everyday.e1185.*" />
+          <option name="PATTERN" value="com.zl.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E0913" />
-        <item itemvalue="Application.E1185" />
-        <item itemvalue="Application.E1078" />
-        <item itemvalue="Application.Array0167" />
-        <item itemvalue="Application.Array0137" />
+        <item itemvalue="Application.StringTest" />
+        <item itemvalue="Application.Day15_1" />
+        <item itemvalue="Application.Day13_3" />
+        <item itemvalue="Application.Day13_2" />
+        <item itemvalue="Application.Day13_1" />
       </list>
     </recent_temporary>
   </component>
@@ -159,8 +222,9 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\CRMLF\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -231,21 +295,45 @@
       <workItem from="1640478221968" duration="357000" />
       <workItem from="1640479347581" duration="29000" />
       <workItem from="1641216375137" duration="473000" />
-      <workItem from="1641224987794" duration="838000" />
-    </task>
-    <task id="LOCAL-00016" summary="日常提交">
-      <created>1637827964706</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1637827964706</updated>
-    </task>
-    <task id="LOCAL-00017" summary="日常提交">
-      <created>1638015230895</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1638015230895</updated>
+      <workItem from="1641224987794" duration="4570000" />
+      <workItem from="1645412815677" duration="6473000" />
+      <workItem from="1645532927086" duration="1109000" />
+      <workItem from="1645536046610" duration="645000" />
+      <workItem from="1645620656324" duration="6357000" />
+      <workItem from="1645859007245" duration="625000" />
+      <workItem from="1646024183667" duration="8379000" />
+      <workItem from="1646288054133" duration="24312000" />
+      <workItem from="1646466781883" duration="17756000" />
+      <workItem from="1646658624214" duration="338000" />
+      <workItem from="1646727217001" duration="4333000" />
+      <workItem from="1646823943808" duration="1530000" />
+      <workItem from="1646909656152" duration="704000" />
+      <workItem from="1647232779389" duration="16000" />
+      <workItem from="1647307272426" duration="5093000" />
+      <workItem from="1647411202808" duration="1720000" />
+      <workItem from="1647427227900" duration="2760000" />
+      <workItem from="1647495301117" duration="6806000" />
+      <workItem from="1647670592179" duration="6074000" />
+      <workItem from="1647835431501" duration="549000" />
+      <workItem from="1647856200909" duration="938000" />
+      <workItem from="1647859044979" duration="61000" />
+      <workItem from="1647859382693" duration="2004000" />
+      <workItem from="1647923030392" duration="576000" />
+      <workItem from="1648002306324" duration="15679000" />
+      <workItem from="1648632281439" duration="243000" />
+      <workItem from="1648639683079" duration="1234000" />
+      <workItem from="1648809784714" duration="3517000" />
+      <workItem from="1648950112978" duration="3190000" />
+      <workItem from="1648955199968" duration="462000" />
+      <workItem from="1648955708311" duration="213000" />
+      <workItem from="1648955961409" duration="3104000" />
+      <workItem from="1649318346316" duration="757000" />
+      <workItem from="1649330493149" duration="3378000" />
+      <workItem from="1649655618564" duration="3984000" />
+      <workItem from="1650246223092" duration="3716000" />
+      <workItem from="1650415785791" duration="532000" />
+      <workItem from="1650417006841" duration="6489000" />
+      <workItem from="1650778160350" duration="60000" />
     </task>
     <task id="LOCAL-00018" summary="日常提交">
       <created>1638015981391</created>
@@ -576,98 +664,35 @@
       <option name="project" value="LOCAL" />
       <updated>1641216843226</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="日常提交">
+      <created>1641308935567</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1641308935568</updated>
+    </task>
+    <task id="LOCAL-00066" summary="剑指Offer1">
+      <created>1645528644161</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1645528644163</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="修改array0015" />
     <MESSAGE value="日常提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="日常提交" />
+    <MESSAGE value="剑指Offer1" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指Offer1" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="361" y="76" key="#Inspections" timestamp="1639791341979">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="361" y="76" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1639791341979" />
-    <state x="361" y="76" key="#Notifications" timestamp="1640187462589">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="361" y="76" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1640187462589" />
-    <state x="372" y="9" key="CommitChangelistDialog2" timestamp="1641216842056">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="372" y="9" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1641216842056" />
-    <state x="147" y="71" key="DiffContextDialog" timestamp="1640272680799">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="147" y="71" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1640272680799" />
-    <state width="1493" height="192" key="GridCell.Tab.0.bottom" timestamp="1641216847970">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="2005" height="279" key="GridCell.Tab.0.bottom/-1920.0.1536.834/0.0.2048.1122@0.0.2048.1122" timestamp="1640478580208" />
-    <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1641216847970" />
-    <state width="1493" height="192" key="GridCell.Tab.0.center" timestamp="1641216847970">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="2005" height="279" key="GridCell.Tab.0.center/-1920.0.1536.834/0.0.2048.1122@0.0.2048.1122" timestamp="1640478580207" />
-    <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1641216847970" />
-    <state width="1493" height="192" key="GridCell.Tab.0.left" timestamp="1641216847970">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="2005" height="279" key="GridCell.Tab.0.left/-1920.0.1536.834/0.0.2048.1122@0.0.2048.1122" timestamp="1640478580207" />
-    <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1641216847970" />
-    <state width="1493" height="192" key="GridCell.Tab.0.right" timestamp="1641216847970">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="2005" height="279" key="GridCell.Tab.0.right/-1920.0.1536.834/0.0.2048.1122@0.0.2048.1122" timestamp="1640478580207" />
-    <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1641216847970" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1639968462579">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1639968462579" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1639968462579">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1639968462579" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1639968462579">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1639968462579" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1639968462579">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1639968462579" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1637233403831">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1637233403831" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1641216582452">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1641216582452" />
-    <state x="499" y="182" key="extract.method.dialog" timestamp="1639377259776">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="499" y="182" key="extract.method.dialog/0.0.1536.834@0.0.1536.834" timestamp="1639377259776" />
-    <state x="447" y="150" width="782" height="600" key="find.popup" timestamp="1641308878932">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="447" y="150" width="782" height="600" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1641308878932" />
-    <state x="567" y="282" key="git4idea.rebase.GitRebaseDialog" timestamp="1640187478423">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="567" y="282" key="git4idea.rebase.GitRebaseDialog/0.0.1536.834@0.0.1536.834" timestamp="1640187478423" />
-    <state x="425" y="189" key="run.anything.popup" timestamp="1638430659219">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1638430659219" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1639380003081">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1639380003081" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

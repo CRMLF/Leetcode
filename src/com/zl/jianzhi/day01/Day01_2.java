@@ -1,4 +1,4 @@
-package com.zl.jianzhi;
+package com.zl.jianzhi.day01;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
@@ -8,7 +8,10 @@ import java.util.Deque;
  * @Author ZhengLing
  * @Date 2022/02/22 19:10
  */
-public class day01_2 {
+public class Day01_2 {
+    public static void main(String[] args) {
+        
+    }
 }
 
 class MinStack {
